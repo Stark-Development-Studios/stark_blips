@@ -12,9 +12,9 @@ author 'Adama Stark'
 
 version '1.0.1'
 
-repository 'https://github.com/AdamaStark-N7/stark_blips'
+repository 'https://github.com/Stark-Development-Studios/stark_blips'
 
-description 'A Standalone Blip Creator Script'
+description 'A Standalone Blip Creator Script For FiveM'
 
 ox_lib 'locale'
 

@@ -1,2 +1,3 @@
 # stark_blips
-Blip Creator For FiveM
+
+A Standalone Blip Creator For FiveM.

@@ -4,7 +4,7 @@ return {
     ShowBlips = true,
 
     MapLocations = {
-        [0] = {
+        [1] = {
             coords = vector3(440.1, -983.22, 30.71),
             blipName = "MRPD",
             blipColor = 38,
@@ -12,7 +12,7 @@ return {
             blipScale = 0.8
         },
 
-        [1] = {
+        [2] = {
             coords = vector3(1810.32, 3668.6, 34.25),
             blipName = "Los Santos County Sheriff's Office",
             blipColor = 47,
@@ -20,5 +20,6 @@ return {
             blipScale = 0.8
         },
 
+        -- Add More After Here!
     }
 }
