@@ -10,7 +10,7 @@ name 'stark_blips'
 
 author 'Adama Stark'
 
-version '1.1.2'
+version '1.1.3'
 
 repository 'https://github.com/Stark-Development-Studios/stark_blips'
 
